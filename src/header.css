@@ -1,0 +1,147 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family:'poppins',sans-serif;
+   box-sizing: border-box;  
+
+} 
+.he{
+    position: relative;
+    width:100% ;
+    min-height:100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+}
+.content{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.textBox{
+    position: relative;
+    max-width: 600px;
+    top: -80px;
+}
+
+h2 {
+    color: #000000;
+    font-size:4em ;
+    line-height: 1.4em;
+    font-weight: 500;
+    
+}
+h2 span{
+    color: #fec62c;
+    font-size: 1.2em;
+    font-weight: 900;
+}
+.content .textBox p{
+    color: #333;
+}
+.content .textBox a{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background: #fec62c;
+    color: #fff;
+    border-radius: 40px;
+    font-weight: 500;
+letter-spacing: 1px;
+text-decoration: none;
+}
+
+.imgBox{
+    width: 600px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 150px;
+    margin-top: -230px;
+  
+}
+.content .imageone{
+    max-width: 400px;  
+}
+.thumb{
+   position: absolute;
+   left: 50%;
+   bottom: 130px;
+   transform: translateX(-50%);
+   display: flex;
+  
+}
+.thumb li{
+    list-style: none;
+    display: inline-block;  
+    margin: 0 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.thumb li :hover {
+   transform: translateY(-15px);
+}
+
+.thumb li img{
+    max-width: 90px;
+}
+.a{
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.scialmedia{
+    position: absolute;
+    top: 50%;
+   left: 1800px; 
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.scialmedia :hover {
+    transform: translateY(1px);
+}
+
+.scialmedia li{
+    max-width: 500px;
+    list-style: none;
+}
+
+.scialmedia li a{
+   display: inline-block;
+   margin: 5px 0;
+   transform: scale(0.6);
+   /* filter: invert(); */
+}
+
+.scialmedia li a img{
+    width: 50px;
+
+
+}
+
+.circle{
+    position: absolute;
+    top: -140px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  background: #fec62c;
+  clip-path: circle(650px at right 750px);
+}
+ 
+
+
+
+
+
+
+
+  
+
+

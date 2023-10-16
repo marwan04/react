@@ -1,0 +1,230 @@
+
+
+[
+    {
+        "section": "Black Coffee",
+        "items": [
+            {
+                "name":"American",
+                "price":1.00,
+                "image": "https://cdn.discordapp.com/attachments/1162351342380134455/1162351428598255646/p1.png?ex=653b9f20&is=65292a20&hm=ff5248683b30d5cc28877f02e6ba47bec7fb24a459a09a70c31d0309a9a28c5f&"
+            },
+            {
+                "name":" Hot Americano",
+                "price":1.00,
+                "image":"https://cdn.discordapp.com/attachments/1162351342380134455/1162377839488794625/p2.png?ex=653bb7b8&is=652942b8&hm=6432e23ff72c4a2b5b38274be9944248366c8e78642007d8501b8735cc2b30d1&"
+            },
+            {
+                "name":"Iced Americano",
+                "price":1.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/337BFB103B4F170D33F0F64F90002FFE?width=172&amp;height=172"
+                
+            },
+            {
+                "name":"Coffee Bean 250g",
+                "price":8.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/DBA87D0CA8164A3663134D509A3F568A?width=172&amp;height=172"
+            },
+            {
+                "name":"Water",
+                "price":0.50,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/CDE9C8481831786073B8E5440F00FE45?width=172&amp;height=172"
+            }
+        ]
+    },
+    {
+        "section": "Milk Coffee",
+        "items": [
+            {
+                "name":"Cappuccino",
+                "price":1.50,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/0BBC591E0BC004F13178A2AAE93774F2?width=172&amp;height=172"
+            },
+            {
+                "name":"Iced Latte",
+                "price":1.50,
+                "image":"https://images.deliveryhero.io/image/talabat/MenuItems/9B6816C4C1DC6AC12B5BF226B95D83BD"
+            },
+            {
+                "name":"Hot Latte",
+                "price":1.50,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/B623C32E70D59C6F3CFD4B56A7B1D4F5?width=172&amp;height=172"
+            }
+        ]
+    },
+    {
+        "section": "Sweet Coffee",
+        "items": [
+            {
+                "name":" Iced Spanish Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/079246BE2C7B126C303C38233D72193F?width=172&amp;height=172"
+            },
+            {
+                "name":"Iced Pistachio Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/CC9A09C158BEA9A7250FCB24226B4523?width=172&amp;height=172"
+            },
+            {
+                "name":"Iced Caramel Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/54F7F8B7F412E5E031A81794201FFE2D?width=172&amp;height=172"
+            },
+            {
+                "name":"Iced Hazelnut Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/0C33355870980D7B2F16B6A1EF5C023A?width=172&amp;height=172"
+            },
+            {
+                "name":"Iced Lotus Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/FC8EB8B5FB6F044094911B8D49267876?width=172&amp;height=172"
+            },
+            {
+                "name":"Iced Rose Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/1A9A9FE7ECA3292A2495450C8CCCED3D?width=172&amp;height=172"
+            },
+            {
+                "name":"Hot Spanish Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/B623C32E70D59C6F3CFD4B56A7B1D4F5?width=172&amp;height=172"
+            },
+            {
+                "name":"Hot Pistachio Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/370F3D3460CF7EB78E0D873B1D5950EA?width=172&amp;height=172"
+            },
+            {
+                "name":"Hot Caramel Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/BCDE6BE8B569464101F9F606FBFC2944?width=172&amp;height=172"
+            },
+            {
+                "name":"Hot Hazelnut Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/1B96E66269F839DAEFD55F34D5F5CE11?width=172&amp;height=172"
+            },
+            {
+                "name":"Hot Lotus Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/5CE38E5DE70AFA9E4969384D6A8FBC6D?width=172&amp;height=172"
+            },
+            {
+                "name":"Hot Rose Latte",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/E1189F04BF98DA0338D0798E15360EE0?width=172&amp;height=172"
+            }
+        ]
+    },
+    {
+        "section": "Eat",
+        "items": [
+            {
+"name":"Fatayer Cheese and Za'atar",
+"price":1.25,
+"image":"https://images.deliveryhero.io/image/talabat/Menuitems/FAAD9518881E81A2C21D5726344C0042?width=172&amp;height=172"
+            },
+            {
+                "name":"Hallum & Summaq Ka'ek",
+                "price":1.25,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/6D79B3CD9FFB0F270ECFA827849C7AC2?width=172&amp;height=172"
+            },
+            {
+                "name":"Peanut Butter & Jelly ka'ek",
+                "price":1.25,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/738086463D5DEF9BCE5B465FB2D880FF?width=172&amp;height=172"
+            },
+            {
+                "name":"Chocolate Cookie",
+                "price":1.25,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/9F7AB1FD42AB0C5AD4E152907E5A2437?width=172&amp;height=172"
+            },
+            {
+                "name":"Latte Cookie",
+                "price":1.25,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/18457FBDCD9DDBD12026E0CFADB2BBA3?width=172&amp;height=172"
+            },
+            {
+                "name":"Turkey Cheese Hamam",
+                "price":2.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/91A2F8D62621A02FF7C68E44CAB5D7C9?width=172&amp;height=172"
+            },
+            {
+                "name":"Kashkawan Siniora Hamam Sandwich",
+                "price":1.25,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/E7CF54883B03E1C21E93AE2AF13ECADB?width=172&amp;height=172"
+            },
+
+            {
+             "name":"Siniora & Spread Cheese Hamam Sandwich",
+             "price":1.25,
+             "image" :"https://images.deliveryhero.io/image/talabat/Menuitems/2F4833F6B8E5E0D832249B789DBF26F0?width=172&amp;height=172"
+            },
+            {
+                "name":"Za'atar Cheese Hamam Sandwich",
+                "price":1.25,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/554253892936462E9CC0764C04F491DE?width=172&amp;height=172"
+            },
+            {
+                "name":"Banana Nut Muffin",
+                "price":2.50,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/4A3CA6879538D5DCE9221A1D0BB8F49F?width=172&amp;height=172"
+            },
+            {
+                "name":"Brownie Cup",
+                "price":2.50,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/6D030E97EBA4844A4AA2E7BAD339D6EB?width=172&amp;height=172"
+            },
+            {
+                "name":"Date Cake",
+                "price":1.25,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/583DFFDC10CDFFEE0E3F210F6B095976?width=172&amp;height=172"
+            }
+        ]
+    },
+    {
+        "section": "Merchandise",
+        "items": [
+            {
+                "name":"Thermos with Temperature Display",
+                "price":15.00,
+             "image":"https://images.deliveryhero.io/image/talabat/Menuitems/E3F2C2C1F49D2313575D42D392E6690A?width=172&amp;height=172"
+            },
+            {
+                "name":"Thermos (500ml)",
+                "price":15.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/5D6D97E57B7862FFD335697EF11D65C3?width=172&amp;height=172"
+            },
+            {
+                "name":"Scaffolding board",
+                "price":6.00
+            },
+            {
+                "name":"Adbali Bus Station",
+                "price":6.00
+            },
+            {
+                "name":"Tote Bag - Coffee Drinker",
+                "price":8.00,
+                "image":"https://images.deliveryhero.io/image/talabat/Menuitems/75278611EDC1A69EEC0ED1EF6297D68A?width=172&amp;height=172"
+            }
+        
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
